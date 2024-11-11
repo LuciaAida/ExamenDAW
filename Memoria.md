@@ -28,7 +28,7 @@ Luego tenemos que editar el archivo de configuracion: _sudo nano gci.conf_
 ![Configuracion Host](Imagenes/configHost.png)
 
 Hay que crear el directorio para _daw.ejercicio3.com_, debemos conceder permisos de lectura y ejecución a los grupos y terceros. A continuación, creamos nuestro html utilizando _nano index.html_. 
-Necesitaremos crear un archivo de host virual con las directivas correctas en _daw.ejercicio3.com.conf_.
+Necesitaremos crear un archivo de host virtual con las directivas correctas en _daw.ejercicio3.com.conf_.
 Debemos actualizar nuestro nuevo directorio y nombre de dominio
 
 ![Dominio](Imagenes/nombreDominio.png)
