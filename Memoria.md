@@ -12,3 +12,5 @@ Luego mediante el comando _cat_ y _who -q_ comprobaremos quienes están conectad
 ![Usuarios Conectados](Imagenes/comprobarUsuarios.png)
 
 Y luego que hayamos acabado todo, ponemos el comando _exit_ el cuál saldrá de la máquina remota.
+
+## Ejercicio 3
