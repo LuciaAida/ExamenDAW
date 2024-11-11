@@ -37,7 +37,7 @@ Luego debemos habilitar el archivo con la herramienta _a2ensite_, deshabilitar e
 
 ![Final](Imagenes/final.png)
 
-No sin antesir al archivo _/etc/hosts_ y añadir la segunda línea para asignar la IP al subdominio:
+No sin antes, ir al archivo _/etc/hosts_ y añadir la segunda línea para asignar la IP al subdominio:
 
 ![IP](Imagenes/IPpagina.png)
 
